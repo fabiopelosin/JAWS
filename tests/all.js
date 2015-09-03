@@ -18,7 +18,6 @@ describe('AllTests', function() {
   require('./cli/install');
   require('./cli/env');
 
-
   /**
    * Tests below create AWS Resources
    */
